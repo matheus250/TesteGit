@@ -45,3 +45,5 @@ if saida_A > saida_B:
     print(f'{saida_B} {saida_A}')
 else:
     print(f'{saida_A} {saida_B}')
+
+#commit
